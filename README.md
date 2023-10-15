@@ -20,13 +20,7 @@ Our goal in this project is to use the hourly power consumption data to predict 
 
 <div><br></div>
 
-<div>
-	<hr>
-	<p> 🔔 Follow me for more <b>Data Science, User Experience (UX), and Machine Learning</b> content.</p>
-	<hr>
-</div>
-<p>&copy; Created by <b>MohamedYosef101</b> | 
-	<a href="https://linkedin.com/in/mohamedyosef101">LinkedIn</a> &centerdot;
-	<a href="https://medium.com/in/@mohamedyosef101">Medium</a> &centerdot;
-	<a href="https://github.com/mohamedyosef101">GitHub</a>
-</p>
+<div><br></div>
+
+---
+➡️ If you're interested in collaborating, **[send me a message on LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
